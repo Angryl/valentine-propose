@@ -32,3 +32,6 @@ you need a Trubo c/C++ compiler to run the [code](https://github.com/Angryl/vale
  In this project a boy approach a girl and propose her, as for valentine, and the girl accept here proposal
 **output**
 [code output](https://github.com/Angryl/valentine-propose/blob/main/images/final.png)
+ 
+##Images
+[snapshot](https://github.com/Angryl/valentine-propose/tree/main/images)
