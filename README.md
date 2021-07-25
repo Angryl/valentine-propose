@@ -15,15 +15,18 @@
 
 
 ### Setup
-* first you need a C compiler.
-**important** not every compiler can run this code like you *online compiler* or one with *Vscode*(gcc).
-you need a Trubo c/C++ compiler to run the [code](https://github.com/Angryl/valentine-propose/blob/main/code/main.c).
-* Now install the *Turbo C compiler* on your computer.
-* locate the *Turbo c* compiler files after installation on you device.
-* goto *Bin* folder.
-* paste the [main.c](https://github.com/Angryl/valentine-propose/blob/main/code/main.c) file in the *bin/* folder.
-* close the window.
-* Now open the Turbo c program and 
+* first you need a C compiler
+**important** not every compiler can run this code like you *online compiler* or one with *Vscode*(gcc)
+you need a Trubo c/C++ compiler to run the [code](https://github.com/Angryl/valentine-propose/blob/main/code/main.c)
+* Now install the *Turbo C compiler* on your computer
+* locate the *Turbo c* compiler files after installation on you device
+* goto *Bin* folder
+* paste the [main.c](https://github.com/Angryl/valentine-propose/blob/main/code/main.c) file in the *bin/* folder
+* Now open the Turbo c program
+* Select and open the program
+* press ```Alt``` + ```f9``` key to Compile the program
+* press ```Ctrl``` + ```f9``` key to run the program
+* Voyla you Rock 🤘
 
 
 
